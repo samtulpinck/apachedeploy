@@ -36,4 +36,4 @@ echo \<\/html\>  | tee -a /var/www/html/demoapp.php
 
 # restart Apache
 
-apachectl restart
+sudo apachectl restart
